@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+.fullherosection{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  /* font-family: "Nunito", sans-serif; */
+  line-height: 1.2;
+  background: url(./hero-bg.png) top center no-repeat;
+}
+.herofullsection{
+  margin-right: 10vw;
+  margin-left: 10vw;
+}
+.herotext h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 600;
+  color: #012970;
+  width: 50vw;
+  font-family: "Nunito", sans-serif;
+}

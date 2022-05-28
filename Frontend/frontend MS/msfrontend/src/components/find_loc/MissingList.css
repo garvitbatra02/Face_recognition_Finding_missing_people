@@ -1,0 +1,35 @@
+.headerlist{
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top:6rem;
+    margin-bottom: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contentlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.subheadinglist{
+    display: flex;
+    
+}
+.missingloc{
+    background-image: url('./footer-bg.png') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    overflow-x: hidden;
+    height: 100vh;
+    /* width: ; */
+}
+.input-group{
+    display: flex;
+  justify-content: flex-end;
+   
+    margin-bottom: 5vh;
+}
