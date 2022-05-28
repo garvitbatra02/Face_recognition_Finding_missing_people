@@ -105,7 +105,6 @@ FindOne features:
 * Quick and fast Node js backend to support quick response of user detection to database
 * Less image degradation due to base64 transfer of image
 * Easy to operate missing people data
-* Sharing the Meeting Link
 * Show Time Stamp when a person detacted
 * Show accurate location of the person with longitude and latitude pointers
 * Pop up Notification of Whatsapp to registered stakeholder mobile number within microseonds
