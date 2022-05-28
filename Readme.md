@@ -89,7 +89,7 @@ $ pip install -r requirements.txt
 $ streamlit run main.py
 
 ```
-In ms frontend 
+In Frontend/frontend MS/msfrontend 
 ```
 $ npm install
 $ npm start
