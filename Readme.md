@@ -77,7 +77,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone [https://github.com/###########](https://github.com/garvitbatra02/Face_recognition_Finding_missing_people)
+$ git clone https://github.com/garvitbatra02/Face_recognition_Finding_missing_people
 
 ```
 In Node-js server MS
