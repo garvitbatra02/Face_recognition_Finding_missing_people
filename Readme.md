@@ -19,7 +19,7 @@ This web app is an online portal that enables users to register their close ones
 ## Live Demo 
 ***
 
-* Project Link: ############
+
 * Documentation Link: https://www.canva.com/design/DAFB6s8ptzI/PKqLtozTMakR2KHC47F9cw/view?utm_content=DAFB6s8ptzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 * Demo Video:https://youtu.be/DLSFxclC47w
 
@@ -77,7 +77,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/###########
+$ git clone [https://github.com/###########](https://github.com/garvitbatra02/Face_recognition_Finding_missing_people)
 
 ```
 In Node-js server MS
