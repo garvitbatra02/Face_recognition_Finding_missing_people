@@ -14,11 +14,17 @@ This web app is an online portal that enables users to register their close ones
 * Maintaining a SPRINT Burndown and a Product Burndown.
 * Adopting the concepts of relative estimation and velocity.
 
+
+
 ## Live Demo 
 ***
-Project Link: ############
 
-Demo Video: ###############
+
+* Documentation Link: https://www.canva.com/design/DAFB6s8ptzI/PKqLtozTMakR2KHC47F9cw/view?utm_content=DAFB6s8ptzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* Demo Video:https://youtu.be/DLSFxclC47w
+
+## 
+
 
 ### Screenshots
 * Home Page
@@ -71,7 +77,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/###########
+$ git clone https://github.com/garvitbatra02/Face_recognition_Finding_missing_people
 
 ```
 In Node-js server MS
@@ -89,7 +95,7 @@ $ pip install -r requirements.txt
 $ streamlit run main.py
 
 ```
-In ms frontend 
+In Frontend/frontend MS/msfrontend 
 ```
 $ npm install
 $ npm start
@@ -105,7 +111,6 @@ FindOne features:
 * Quick and fast Node js backend to support quick response of user detection to database
 * Less image degradation due to base64 transfer of image
 * Easy to operate missing people data
-* Sharing the Meeting Link
 * Show Time Stamp when a person detacted
 * Show accurate location of the person with longitude and latitude pointers
 * Pop up Notification of Whatsapp to registered stakeholder mobile number within microseonds
