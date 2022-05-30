@@ -20,8 +20,8 @@ This web app is an online portal that enables users to register their close ones
 ***
 
 
-* Documentation Link: https://www.canva.com/design/DAFB6s8ptzI/PKqLtozTMakR2KHC47F9cw/view?utm_content=DAFB6s8ptzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-* Demo Video:https://youtu.be/DLSFxclC47w
+* Documentation Link: https://drive.google.com/file/d/1BU0SRQpA34_FoaBTm4EeScGzy8bp9Bzk/view?usp=sharing
+* Demo Video: https://youtu.be/DLSFxclC47w
 
 ## 
 
