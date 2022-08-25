@@ -1,28 +1,6 @@
 import cv2
 from simple_facerec import SimpleFacerec
 import streamlit as st
-# import requests
-# from getlocationinfo2 import getlocation
-# st.title("Face Recognition App")
-# st.set_page_config(layout="wide")
-
-
-
-
-
-# hide_st_style = """
-#             <style>
-#             #MainMenu {visibility: hidden;}
-#             footer {visibility: hidden;}
-#             header {visibility: hidden;}
-#             </style>
-#             """
-# st.markdown(hide_st_style, unsafe_allow_html=True)
-
-
-
-
-
 
 
 original_title = '<p style="font-family:sans-serif; color:#282c34; font-size: 50px;text-align:center;font-weight:700">Face Recognition App</p>'
@@ -77,29 +55,3 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-
-
-
-# img=cv2.imread("messi.jpg")
-# rgb_img=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
-# img_encoding=face_recognition.face_encodings(rgb_img)[0]
-
-# img2=cv2.imread("images/messiimg2.jpg")
-# rgb_img2=cv2.cvtColor(img2,cv2.COLOR_BGR2RGB)
-# img_encoding2=face_recognition.face_encodings(rgb_img2)[0]
-
-
-# result=face_recognition.compare_faces([img_encoding],img_encoding2)
-# print(result)
-
-# cv2.imshow("Img",img)
-# cv2.imshow("Img 2",img2)
-# cv2.waitKey()

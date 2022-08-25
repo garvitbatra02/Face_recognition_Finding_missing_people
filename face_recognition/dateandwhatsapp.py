@@ -1,5 +1,6 @@
 
 import requests
+# code to send message to stakeholder in a particular format of whatsapp with time and location
 
 def sendmessage(number,name,adhaar,location):
     city=location['city']

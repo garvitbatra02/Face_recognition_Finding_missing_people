@@ -1,5 +1,6 @@
 import os
 
+# code to update image in image folder everytime code is ran
 target='./images/'
 
 def makenew():

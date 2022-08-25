@@ -1,5 +1,8 @@
 import requests
 
+
+# code to get geographical data using geo API to detect location the person currently is
+
 def getlocation():
     r=requests.get("https://get.geojs.io/")
 

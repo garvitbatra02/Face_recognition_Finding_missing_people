@@ -5,6 +5,10 @@ from getlocationinfo2 import getlocation
 
 mylocation=getlocation()
 
+# code to add data of the missing person to the data base using the node js API manually developed
+
+
+#since name of the missing person can be same for many like shivam,ramesh in India ,hence data using adhaar card number after the name in form   (name_adhaarcardnumber) data has been split and added to data base 
 
 
 def add_in_base(a):
