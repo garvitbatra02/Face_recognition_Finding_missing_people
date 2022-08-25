@@ -45,9 +45,3 @@ def add_in_base(a):
     sendmessage(newrdata[0]['phonenumber'],actual_name,adhaar,mylocation)
 
 
-# add_in_base("Garvit Batra_962601999947")
-
-# import requests
-# in_values = {'username':'Jack','password':'Hello'}
-# res = requests.post('https://httpbin.org/post',data = in_values)
-# print(res.text)

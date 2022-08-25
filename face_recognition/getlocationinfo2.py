@@ -11,8 +11,6 @@ def getlocation():
 
     geo_request=requests.get(url)
     geo_data=geo_request.json()
-    # print(geo_data)
+   
     return geo_data
-    # print(geo_data["country"])
-    # print(geo_data["city"])
-    # print(geo_data["region"])
+   
